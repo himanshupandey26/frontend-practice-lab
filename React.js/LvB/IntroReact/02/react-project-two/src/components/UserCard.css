@@ -1,0 +1,31 @@
+#card-container {
+    margin: 10px;
+    padding: 10px;
+    height: 250px;
+    width: 300px;
+    /* background-color: red; */
+    border-radius: 5px;
+}
+
+
+#img-container{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border-radius: 50%; */
+    background-color: #a1a1a1a1;
+
+}
+
+#user-img {
+    height: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+
+#info-container{
+    text-align: center;
+    margin-top: 30px;
+}
